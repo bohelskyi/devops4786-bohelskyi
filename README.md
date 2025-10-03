@@ -1,1 +1,1 @@
-# devops4786-bohelskyi
+# Github Practice
